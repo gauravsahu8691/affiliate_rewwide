@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.82c7d9b4.chunk.css",
-    "main.js": "./static/js/main.2d3b3980.chunk.js",
-    "main.js.map": "./static/js/main.2d3b3980.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-    "static/js/2.8e2ea280.chunk.js": "./static/js/2.8e2ea280.chunk.js",
-    "static/js/2.8e2ea280.chunk.js.map": "./static/js/2.8e2ea280.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.70cc7bcd514acc12e4c106330b17d617.js": "./precache-manifest.70cc7bcd514acc12e4c106330b17d617.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.82c7d9b4.chunk.css.map": "./static/css/main.82c7d9b4.chunk.css.map",
-    "static/media/Avtar01.jpg": "./static/media/Avtar01.98c434d3.jpg",
-    "static/media/Register.css": "./static/media/loginBG.51b66497.jpg",
-    "static/media/logo.png": "./static/media/logo.acc39dc5.png",
-    "static/media/logo2.png": "./static/media/logo2.84f67884.png",
-    "static/media/s4.jpg": "./static/media/s4.5fdb28c2.jpg",
-    "static/media/s5.jpg": "./static/media/s5.a0bd3968.jpg"
+    "main.css": "/affiliate_rewwide/static/css/main.8448f6d1.chunk.css",
+    "main.js": "/affiliate_rewwide/static/js/main.2d3b3980.chunk.js",
+    "main.js.map": "/affiliate_rewwide/static/js/main.2d3b3980.chunk.js.map",
+    "runtime~main.js": "/affiliate_rewwide/static/js/runtime~main.6c342ca5.js",
+    "runtime~main.js.map": "/affiliate_rewwide/static/js/runtime~main.6c342ca5.js.map",
+    "static/js/2.8e2ea280.chunk.js": "/affiliate_rewwide/static/js/2.8e2ea280.chunk.js",
+    "static/js/2.8e2ea280.chunk.js.map": "/affiliate_rewwide/static/js/2.8e2ea280.chunk.js.map",
+    "index.html": "/affiliate_rewwide/index.html",
+    "precache-manifest.7d50b0db9e1b126034a830c81d5cfd6d.js": "/affiliate_rewwide/precache-manifest.7d50b0db9e1b126034a830c81d5cfd6d.js",
+    "service-worker.js": "/affiliate_rewwide/service-worker.js",
+    "static/css/main.8448f6d1.chunk.css.map": "/affiliate_rewwide/static/css/main.8448f6d1.chunk.css.map",
+    "static/media/Avtar01.jpg": "/affiliate_rewwide/static/media/Avtar01.98c434d3.jpg",
+    "static/media/Register.css": "/affiliate_rewwide/static/media/loginBG.51b66497.jpg",
+    "static/media/logo.png": "/affiliate_rewwide/static/media/logo.acc39dc5.png",
+    "static/media/logo2.png": "/affiliate_rewwide/static/media/logo2.84f67884.png",
+    "static/media/s4.jpg": "/affiliate_rewwide/static/media/s4.5fdb28c2.jpg",
+    "static/media/s5.jpg": "/affiliate_rewwide/static/media/s5.a0bd3968.jpg"
   }
 }
