@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/gauravsahu8691/affiliate_rewwide.git/static/css/main.ea891033.chunk.css",
-    "main.js": "/gauravsahu8691/affiliate_rewwide.git/static/js/main.2d3b3980.chunk.js",
-    "main.js.map": "/gauravsahu8691/affiliate_rewwide.git/static/js/main.2d3b3980.chunk.js.map",
-    "runtime~main.js": "/gauravsahu8691/affiliate_rewwide.git/static/js/runtime~main.bdccc772.js",
-    "runtime~main.js.map": "/gauravsahu8691/affiliate_rewwide.git/static/js/runtime~main.bdccc772.js.map",
-    "static/js/2.8e2ea280.chunk.js": "/gauravsahu8691/affiliate_rewwide.git/static/js/2.8e2ea280.chunk.js",
-    "static/js/2.8e2ea280.chunk.js.map": "/gauravsahu8691/affiliate_rewwide.git/static/js/2.8e2ea280.chunk.js.map",
-    "index.html": "/gauravsahu8691/affiliate_rewwide.git/index.html",
-    "precache-manifest.da2d811c7572a145a8a4da6d43a937d8.js": "/gauravsahu8691/affiliate_rewwide.git/precache-manifest.da2d811c7572a145a8a4da6d43a937d8.js",
-    "service-worker.js": "/gauravsahu8691/affiliate_rewwide.git/service-worker.js",
-    "static/css/main.ea891033.chunk.css.map": "/gauravsahu8691/affiliate_rewwide.git/static/css/main.ea891033.chunk.css.map",
-    "static/media/Avtar01.jpg": "/gauravsahu8691/affiliate_rewwide.git/static/media/Avtar01.98c434d3.jpg",
-    "static/media/Register.css": "/gauravsahu8691/affiliate_rewwide.git/static/media/loginBG.51b66497.jpg",
-    "static/media/logo.png": "/gauravsahu8691/affiliate_rewwide.git/static/media/logo.acc39dc5.png",
-    "static/media/logo2.png": "/gauravsahu8691/affiliate_rewwide.git/static/media/logo2.84f67884.png",
-    "static/media/s4.jpg": "/gauravsahu8691/affiliate_rewwide.git/static/media/s4.5fdb28c2.jpg",
-    "static/media/s5.jpg": "/gauravsahu8691/affiliate_rewwide.git/static/media/s5.a0bd3968.jpg"
+    "main.css": "./static/css/main.82c7d9b4.chunk.css",
+    "main.js": "./static/js/main.2d3b3980.chunk.js",
+    "main.js.map": "./static/js/main.2d3b3980.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.8e2ea280.chunk.js": "./static/js/2.8e2ea280.chunk.js",
+    "static/js/2.8e2ea280.chunk.js.map": "./static/js/2.8e2ea280.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.70cc7bcd514acc12e4c106330b17d617.js": "./precache-manifest.70cc7bcd514acc12e4c106330b17d617.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.82c7d9b4.chunk.css.map": "./static/css/main.82c7d9b4.chunk.css.map",
+    "static/media/Avtar01.jpg": "./static/media/Avtar01.98c434d3.jpg",
+    "static/media/Register.css": "./static/media/loginBG.51b66497.jpg",
+    "static/media/logo.png": "./static/media/logo.acc39dc5.png",
+    "static/media/logo2.png": "./static/media/logo2.84f67884.png",
+    "static/media/s4.jpg": "./static/media/s4.5fdb28c2.jpg",
+    "static/media/s5.jpg": "./static/media/s5.a0bd3968.jpg"
   }
 }
